@@ -48,3 +48,31 @@ else:
 
 * Used wrong starting value of `i`
 * Forgot increment (`i += 1`)
+
+📅 Day 02 - Functions
+📌 Topics Covered
+
+Function definition
+
+Function calling
+
+Parameters
+
+🧑‍💻 Example Code
+def greet(name):
+    print("Hello", name)
+
+greet("Rohit")
+🧠 What I Learned
+
+Functions help reuse code
+
+We can pass values (parameters)
+
+Makes code clean and structured
+
+❗ Mistakes
+
+Forgot indentation
+
+Forgot to call function
