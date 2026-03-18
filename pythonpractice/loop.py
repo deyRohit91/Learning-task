@@ -16,3 +16,7 @@ while i < num:
     
 else:
     print(num, "is a prime number")
+
+    # more loop program
+for i in range(1, 11):
+   print(i)
